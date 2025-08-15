@@ -1,0 +1,32 @@
+[
+    {
+        "operacion": "raíz cúbica de 27",
+        "resultado": 3.0,
+        "tipo": "raíz cúbica",
+        "timestamp": "12:50:16"
+    },
+    {
+        "operacion": "raíz cuadrada de 36",
+        "resultado": 6.0,
+        "tipo": "raíz cuadrada",
+        "timestamp": "12:51:31"
+    },
+    {
+        "operacion": "2 elevado a 4",
+        "resultado": 16.0,
+        "tipo": "potencia",
+        "timestamp": "12:52:11"
+    },
+    {
+        "operacion": "25 grados celsius a fahrenheit",
+        "resultado": 77.0,
+        "tipo": "conversión celsius a fahrenheit",
+        "timestamp": "12:54:44"
+    },
+    {
+        "operacion": "factorial de 5",
+        "resultado": 120,
+        "tipo": "factorial",
+        "timestamp": "12:55:18"
+    }
+]

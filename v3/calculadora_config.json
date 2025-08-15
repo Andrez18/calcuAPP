@@ -1,0 +1,10 @@
+{
+    "velocidad_voz": 180,
+    "volumen_voz": 0.9,
+    "timeout_escucha": 10,
+    "guardar_historial": true,
+    "modo_verboso": true,
+    "idioma_reconocimiento": "es-ES",
+    "precision_decimales": 4,
+    "usar_hotkeys": false
+}

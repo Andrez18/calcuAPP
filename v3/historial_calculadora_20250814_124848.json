@@ -1,0 +1,8 @@
+[
+    {
+        "operacion": "5 + 7",
+        "resultado": 12.0,
+        "tipo": "suma",
+        "timestamp": "12:47:08"
+    }
+]

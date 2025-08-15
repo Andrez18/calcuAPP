@@ -1,0 +1,23 @@
+{
+  "fecha": "2025-08-13T20:34:12.150610",
+  "operaciones": [
+    {
+      "operacion": "5 * 2",
+      "resultado": 10.0,
+      "tipo": "multiplicación",
+      "timestamp": "20:33:41"
+    },
+    {
+      "operacion": "1 / 3",
+      "resultado": 0.3333333333333333,
+      "tipo": "división",
+      "timestamp": "20:33:49"
+    },
+    {
+      "operacion": "5 elevado a 2",
+      "resultado": 25.0,
+      "tipo": "potencia",
+      "timestamp": "20:34:00"
+    }
+  ]
+}
